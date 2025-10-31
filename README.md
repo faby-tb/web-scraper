@@ -1,4 +1,4 @@
-# 🔍 News Scraper & Data Visualizer (Refined)
+# 🔍 News Scraper & Data Visualizer
 
 A **robust Python scraper** that collects news headlines from Hacker News, cleans the data, analyzes top domains, and visualizes text patterns with charts and word clouds.
 
