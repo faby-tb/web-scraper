@@ -19,7 +19,7 @@ A **robust Python scraper** that collects news headlines from Hacker News, clean
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOURUSERNAME/web-scraper-insights-refined.git
+git clone https://github.com/faby-tb/web-scraper-insights-refined.git
 cd web-scraper-insights-refined
 ```
 2. Install dependencies:
